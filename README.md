@@ -16,3 +16,5 @@ I created the map because I plan on moving to Virginia soon, and in the morning 
 <h4>With all my data now present, I utilized the "Distance to nearest hub" function to connect each trailhead to its closest coffee shop</h4>
 <h4>I then used the "Extract by location" function to remove all coffe shops that were not the closest shop to any trailheads</h4>
 <h4>Finally I went through and readjusted the style of the map for appearence's sake. I changed the color of my hub lines to make them stand out more, and I changed my point markers to be SVG markers to make it more obvious at first glance what each point referred to</h4>
+
+<h2>Map for hiking with pastries</h2>
