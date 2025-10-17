@@ -18,3 +18,4 @@ I created the map because I plan on moving to Virginia soon, and in the morning 
 <h4>Finally I went through and readjusted the style of the map for appearence's sake. I changed the color of my hub lines to make them stand out more, and I changed my point markers to be SVG markers to make it more obvious at first glance what each point referred to</h4>
 
 <h2>Map for hiking with pastries</h2>
+![Image](https://github.com/user-attachments/assets/3c5dc8cb-8ec9-4b15-9f0d-2652c763d0c3)
