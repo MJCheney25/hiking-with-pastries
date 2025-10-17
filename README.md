@@ -19,3 +19,6 @@ I created the map because I plan on moving to Virginia soon, and in the morning 
 
 <h2>Map for hiking with pastries</h2>
 <img width="3507" height="2480" alt="Image" src="https://github.com/user-attachments/assets/d9e74165-7626-43f5-98ef-59bd960990bb" />
+
+<h2>Links to map</h2>
+<h4>Webpage http://127.0.0.1:5500/Final_Project_MAP.html </h4>
